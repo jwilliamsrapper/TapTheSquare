@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{8A32CA56-CD57-300C-AE64-268C7873FF44}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CloudOnceServices.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CloudOnceServices.cs" Line="24" Column="10" />
+      <File FileName="Assets/Scripts/PauseGame.cs" Line="9" Column="35" />
+      <File FileName="Assets/Scripts/Resizer.cs" Line="43" Column="32" />
+      <File FileName="Assets/Scripts/MainMenu.cs" Line="74" Column="6" />
+      <File FileName="Assets/Scripts/TapPlayer.cs" Line="298" Column="1" />
+      <File FileName="Assets/Scripts/GameOver.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/GameSound.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/FrameRate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tap The Square" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameSound.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="55c3dfa5-64b9-4591-b599-6077119b072d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

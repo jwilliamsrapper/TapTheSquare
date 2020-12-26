@@ -1,0 +1,23 @@
+{
+	"AchievementIDs":[],
+	"LeaderboardIDs":[
+		{
+			"InternalID":"MostTaps",
+			"AppleID":"com.TapTheSquare3.JaeWilliams",
+			"GoogleID":"CgkIpcHWq-0YEAIQAA"
+		},
+		{
+			"InternalID":"moreTaps",
+			"AppleID":"com.mostTaps.JaeWilliams",
+			"GoogleID":"CgkIpcHWq-0YEAIQAQ"
+		}
+	],
+	"CloudVariables":[],
+	"AppleSupported":true,
+	"GoogleSupported":true,
+	"GoogleAppID":"853984780453",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.7.1",
+	"SettingsLocation":"0"
+}
